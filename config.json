@@ -1,10 +1,11 @@
 {
-	"title": "W O R D S",
-	"subtitle": "Essays, etc.",
-	"description": "My name is Diana. I make things but generally not very well. I put thoughts here.",
-	"links_title": "Me, elsewhere:",
+	"title": "The Shepherd",
+	"subtitle": "Stories from space with love.",
+	"description": "Diana Belle and Lucia Brody developed the universe of *The Shepherd* together after watching DS9.",
+	"links_title": "Also:",
 	"links": {
-		"Mastodon": "https://friend.camp/@garbados",
-		"GitHub": "https://github.com/garbados"
+		"Diana Belle": "https://friend.camp/@garbados",
+		"Lucia Brody": "#TODO",
+		"Source": "https://github.com/garbados/shepherd-www"
 	}
 }
